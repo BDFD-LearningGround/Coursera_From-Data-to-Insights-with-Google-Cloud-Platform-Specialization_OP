@@ -1,21 +1,48 @@
-# 3.6_From-Data-to-Insights-with-Google-Cloud-Platform-Specialization
-About this Specialization
-14,905 recent views
-Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course!
+<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
+![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/From-Data-to-Insights-with-Google-Cloud-Platform-Specialization_OP.svg?cache=remove>)
+![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/From-Data-to-Insights-with-Google-Cloud-Platform-Specialization_OP?style=flat>)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/From-Data-to-Insights-with-Google-Cloud-Platform-Specialization_OP?style=flat)
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+
+# From Data to Insights with Google Cloud Platform Specialization(Coursera)
+
+## About This Course/Certificate
+
+About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+
+**Course Link:** [From Data to Insights with Google Cloud Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform)
+
+## Course Learn Path
+
+The courses enlisted as follows:
+
+- [x] **C1-Exploring and Preparing your Data with BigQuery**
+- [x] **C2-Create New BigQuery Datasets and Visualizing Insights**
+- [ ] **C3-Achieving Advanced Insights with BigQuery**
+- [ ] **C4-Applying Machine Learning to yOUR Data with GCP**
+
+## Course Description: 4 Course
 
 This four-course accelerated online specialization teaches course participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The courses feature interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The courses also cover data loading, querying, schema modeling, optimizing performance, query pricing, and data visualization.
 
-This specialization is intended for the following participants:
+## Applied Learning Project
 
-● Data Analysts, Business Analysts, Business Intelligence professionals
+**Tools:** Jupyter / JupyterLab, GitHub,
 
-● Cloud Data Engineers who will be partnering with Data Analysts to build scalable data solutions on Google Cloud Platform
+**Libraries:** Pandas, NumPy
 
-To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
+**Projects:** ABC Project Name
 
->>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<
+## Course Certificate
 
-1. Exploring and Preparing your Data with BigQuery
-2. Create New BigQuery Datasets and Visualizing Insights
-3. Achieving Advanced Insights with BigQuery
-4. Applying Machine Learning to yOUR Data with GCP
+Total Hours: ~48 Hrs
+
+<div align="center">
+
+### Thanks For Watch This Repositories!
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### Feel Free To Fork And Report If You Find Any Issue :)
+
+</div>
